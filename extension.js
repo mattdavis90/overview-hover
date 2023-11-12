@@ -19,7 +19,7 @@ import { Extension, InjectionManager } from 'resource:///org/gnome/shell/extensi
 import { WindowPreview } from 'resource:///org/gnome/shell/ui/windowPreview.js';
 import * as Main from 'resource:///org/gnome/shell/ui/main.js';
 
-export default class PlainExampleExtension extends Extension {
+export default class OverviewHoverExtension extends Extension {
     #injectionManager;
 
     enable() {
