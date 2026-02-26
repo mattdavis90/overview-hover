@@ -3,7 +3,7 @@
   "name": "Overview Hover",
   "description": "Hover over a window in overview mode to make it active",
   "shell-version": [
-    "45", "46", "47", "49"
+    "45", "46", "47", "48", "49"
   ],
   "url": "https://github.com/mattdavis90/overview-hover"
 }
